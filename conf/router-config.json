@@ -1,0 +1,6 @@
+{
+    "routingDefaults": {
+        "maxTransfers": 4,
+        "searchWindow": 1800
+    }
+}

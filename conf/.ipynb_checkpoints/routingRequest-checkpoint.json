@@ -1,0 +1,10 @@
+{
+    "fromPlace":"41.85524221544658,-87.61871337890624",
+    "toPlace":"41.75799552006108,-87.55966186523438",
+    "time":"7:45am",
+    "date":"12-08-2017",
+    "mode":"TRANSIT,WALK",
+    "maxWalkDistance":4828.032,
+    "maxTransfers": 4,
+    "searchWindow": 1800
+}
